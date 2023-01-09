@@ -1,23 +1,23 @@
 module.exports = {
-  siteUrl: "https://growfogbox.com", // Site domain. Do not include a trailing slash!
+  siteUrl: "https://absolutefreedom.net", // Site domain. Do not include a trailing slash!
 
   postsPerPage: 12, // Number of posts shown on paginated pages (changes this requires sometimes to delete the cache)
 
-  siteTitleMeta: "growfogbox.com", // This allows an alternative site title for meta data for pages.
+  siteTitleMeta: "absolutefreedom.net", // This allows an alternative site title for meta data for pages.
   siteDescriptionMeta:
-    "growfogbox.com", // This allows an alternative site description for meta data for pages.
+    "absolutefreedom.net", // This allows an alternative site description for meta data for pages.
 
   shareImageWidth: 1000, // Change to the width of your default share image
   shareImageHeight: 523, // Change to the height of your default share image
 
-  shortTitle: "growfogbox.com", // Used for App manifest e.g. Mobile Home Screen
+  shortTitle: "absolutefreedom.net", // Used for App manifest e.g. Mobile Home Screen
   siteIcon: "favicon.png", // Logo in /static dir used for SEO, RSS, and App manifest
   backgroundColor: "#e9e9e9", // Used for Offline Manifest
   themeColor: "#15171A", // Used for Offline Manifest
   apiUrl: "https://wordpress.theasdfghjkl.com",
   subscribeWidget: {
     visible: false,
-    title: "growfogbox.com",
+    title: "absolutefreedom.net",
     helpText: "הישארו מעודכנים",
     successMessage: "תודה ההודעה נשלחה בהצלחה",
   },
@@ -25,11 +25,11 @@ module.exports = {
     navigation: [
       {
         label: "דף הבית",
-        url: "https://growfogbox.com/",
+        url: "https://absolutefreedom.net/",
       },
       {
         label: "יצירת קשר",
-        url: "https://growfogbox.com/contact",
+        url: "https://absolutefreedom.net/contact",
       },
     ],
   },
@@ -38,16 +38,16 @@ module.exports = {
     navigation: [
       {
         label: "דף הבית",
-        url: "https://growfogbox.com/",
+        url: "https://absolutefreedom.net/",
       },
       {
         label: "Sitemap",
-        url: "https://growfogbox.com/sitemap.xml",
+        url: "https://absolutefreedom.net/sitemap.xml",
       },
       
       {
         label: "יצירת קשר",
-        url: "https://growfogbox.com/contact",
+        url: "https://absolutefreedom.net/contact",
       },
      
     ],
@@ -70,9 +70,9 @@ module.exports = {
     successMessage: "We’ll get in touch with you soon.",
   },
   metadata: {
-    title: "growfogbox.com",
+    title: "absolutefreedom.net",
     description:
-      "growfogbox.com",
+      "absolutefreedom.net",
   },
   twitterCard: {
     title: "",
@@ -82,15 +82,15 @@ module.exports = {
     username: "@DraftboxHQ",
   },
   facebookCard: {
-    title: "growfogbox",
+    title: "absolutefreedom.net",
     description:
       "Lightning fast, 1t on Gatsby.",
     imageUrl: "facebookImage.png",
     appId: "2391725224459953",
   },
-  siteTitle: "growfogbox.com",
+  siteTitle: "absolutefreedom.net",
   siteDescription:
-    "growfogbox.com",
+    "absolutefreedom.net",
   language: "he",
   logoUrl: "",
   iconUrl: "",
